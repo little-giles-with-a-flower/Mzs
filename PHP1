@@ -1,0 +1,3 @@
+<?php
+conf("hello world!\n");
+?>
